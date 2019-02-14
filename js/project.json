@@ -91,7 +91,7 @@
   },
   {
     "name":"企业星云图",
-    "url":"https://gezi666.github.io/CloudMap/dist/index#/",
+    "url":"https://gezi666.github.io/CloudMap/index#/",
     "img":"./img/Project/threeTeam/qiyexingtu.jpg",
     "technology":"vue,echarts",
     "time":"2017年8月",
@@ -298,23 +298,23 @@
   "txt":"潍坊政务服务大数据展示平台"
 },{
   "name":"工商大数据",
-  "url":"https://jusfoun-fe.github.io/static/business/newHtml/login.html",
+  "url":"https://gezi666.github.io/business/newHtml/login.html",
   "img":"./img/Project/oneTeam/gongshang.jpg",
   "technology":"query,css3",
   "time":"2017年1月",
   "type":"PC",
   "txt":"利用工商全景大数据库构建市场监管风险预警机制，挖掘业务关联，精准定位监管难点重点，并通过“机器学习”模式自动生成处置建议，采取预防措施，合理调配监管力量，提高监管效率；通过可视化图表进行宏观经济趋势分析、经济结构调整分析、资本流动趋势预判、就业需求景气预测等在内的各类辅助决策信息支持与数据验证，帮助各级政府与职能部门提高政策决策能力与市场掌控能力。"
 },{
-  "name":"九次方民意云大数据平台",
+  "name":"民意云大数据平台",
   "url":"https://yangyongguan.github.io/big-data/minyi/html/login.html",
   "img":"./img/Project/oneTeam/minyiyun.jpg",
   "technology":"jquery,echarts,handlebars",
   "time":"2017年4月",
   "type":"PC",
-  "txt":"九次方民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
+  "txt":"民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
 },{
   "name":"涉税大数据平台",
-  "url":"https://jusfoun-fe.github.io/static/tax/dist/html/login/login.html",
+  "url":"https://gezi666.github.io/tax/dist/html/login/login.html",
   "img":"./img/Project/oneTeam/sheshui.jpg",
   "technology":"jquery,echarts,layui",
   "time":"2017年4月",
@@ -369,8 +369,8 @@
   "type":"PC",
   "txt":"钢铁供应链金融大数据，可视化监视，方案决策"
 },{
-  "name":"溯源大数据",
-  "url":"https://jusfoun-fe.github.io/static/originPlatform/html/index/index/dataStatistics.html",
+  "name":"溯源大数据（企业端）",
+  "url":"https://gezi666.github.io/Origin-Enterprise/html/login.html",
   "img":"./img/Project/threeTeam/suyuan.jpg",
   "technology":"jquery,echarts,layui",
   "time":"2017年7月",
@@ -378,7 +378,7 @@
   "txt":"提供农产品监管大数据展示，为政府提供决策"
 },{
   "name":"星购互动云经纪大数据平台",
-  "url":"https://jusfoun-fe.github.io/static/xghd/#/",
+  "url":"https://gezi666.github.io/xghd/#/",
   "img":"./img/Project/oneTeam/xinggouhudong.jpg",
   "technology":"vue,echarts",
   "time":"2017年7月",
